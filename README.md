@@ -11,8 +11,10 @@ For bug reports, please include:
 
 - Text of errors reported by the application.
 
-- Copy of the your browser console log messages leading to the issue.
+- Copy of your browser console's logs leading to the issue.
 
-- Screenshots for UI issues.
+- Screenshots showing the error.
+
+
 
 
