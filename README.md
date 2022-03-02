@@ -13,6 +13,8 @@ For bug reports, please include:
 
 - Copy of your browser console's logs leading to the issue.
 
+- Your operating system and browser and their versions.
+
 - Screenshots showing the error.
 
 
